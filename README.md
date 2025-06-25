@@ -38,10 +38,10 @@ This repository is a living project aimed at continuous improvement based on cla
 ## Contact
 
 For questions or collaboration, please contact:  
- [Shilpashree S]
- [shilpashrees@sjbit.edu.in]
- [SJB Institute of Technology]
----
+ Shilpashree S
+ shilpashrees@sjbit.edu.in
+ SJB Institute of Technology
+
 
 *This repository supports a teaching approach that bridges traditional syllabus requirements with innovative, AI-augmented, and student-centered learning practices.*  
 
