@@ -39,9 +39,7 @@ This repository is a living project aimed at continuous improvement based on cla
 
 For questions or collaboration, please contact:  
 Shilpashree S 
-
 shilpashrees@sjbit.edu.in
-
 SJB Institute of Technology
 ---
 
